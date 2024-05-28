@@ -92,4 +92,4 @@ Practical analysis of advanced algorithms
 
 1. Choose two algorithms (interesting to you and not considered in the course) from the above-mentioned book sections.
 2. Analyze the chosen algorithms in terms of time and space complexity, design technique used, etc. Implement the algorithms and produce several experiments. 
-Analyze the results.
+Analyze the results..
